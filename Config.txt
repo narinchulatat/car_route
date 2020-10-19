@@ -1,4 +1,0 @@
-Database:	namyuenh_carroute
-Host:	localhost
-Username:	namyuenh_carroute
-Password:	namyuen10949
